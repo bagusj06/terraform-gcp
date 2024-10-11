@@ -1,0 +1,14 @@
+[
+    {
+        "name": "ddc-citra",
+        "ip": "202.152.149.178/32"
+    },
+    {
+        "name": "ddc-gmedia",
+        "ip": "202.46.148.34/32"
+    },
+    {
+        "name": "deployment-instance",
+        "ip": "34.101.162.1/32"
+    }
+]

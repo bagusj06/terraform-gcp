@@ -1,0 +1,23 @@
+[
+    {
+        "name": "allow-iap",
+        "source_ip": ["35.235.240.0/20"],
+        "protocol": "tcp",
+        "port": "all",
+        "rule": "allow"
+    },
+    {
+        "name": "allow-ddc",
+        "source_ip": ["202.152.149.178/32", "202.46.148.34/32"],
+        "protocol": "tcp",
+        "port": "all",
+        "rule": "allow"
+    },
+    {
+        "name": "deny-all",
+        "source_ip": ["0.0.0.0"],
+        "protocol": "tcp",
+        "port": "all",
+        "rule": "deny"
+    }
+]
