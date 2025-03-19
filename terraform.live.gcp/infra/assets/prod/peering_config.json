@@ -1,6 +1,6 @@
 [
     {
-        "peer_vpc_name": "vpc-common-prod",
-        "peer_project_id": "common-prod-319709"
+        "peer_vpc_name": "vpc-production",
+        "peer_project_id": "vpc-production"
     }
 ]
