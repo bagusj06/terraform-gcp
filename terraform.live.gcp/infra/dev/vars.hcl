@@ -1,6 +1,6 @@
 locals{
-    project_name        = "fiducia"
-    gcp_project_id      = "fiducia-dev-437604"
+    project_name        = "project-a"
+    gcp_project_id      = "project-a-id"
     remote_state_bucket = "backend-terraform-${local.project_name}-${local.environment}"
     region              = "asia-southeast2"
     zone                = "asia-southeast2-a"
