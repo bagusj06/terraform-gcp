@@ -1,10 +1,10 @@
 [
     {
-        "peer_vpc_name": "vpc-common-dev",
-        "peer_project_id": "ica-dev-316404"
+        "peer_vpc_name": "vpc-A",
+        "peer_project_id": "vpc-A"
     },
     {
-        "peer_vpc_name": "eform-dev",
-        "peer_project_id": "eform-dev-337407"
+        "peer_vpc_name": "vpc-B",
+        "peer_project_id": "vpc-B"
     }
 ]
