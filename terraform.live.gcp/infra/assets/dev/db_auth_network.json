@@ -1,10 +1,10 @@
 [
     {
-        "name": "ddc-citra",
-        "ip": "202.152.149.178/32"
+        "name": "connection-A",
+        "ip": "xxx.xxx.xxx.xxx/xx"
     },
     {
-        "name": "ddc-gmedia",
-        "ip": "202.46.148.34/32"
-    }
+        "name": "connection-B",
+        "ip": "xxx.xxx.xxx.xxx/xx"
+    },
 ]
