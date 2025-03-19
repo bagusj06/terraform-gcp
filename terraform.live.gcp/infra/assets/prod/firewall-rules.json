@@ -1,14 +1,14 @@
 [
     {
         "name": "allow-iap",
-        "source_ip": ["35.235.240.0/20"],
+        "source_ip": ["xxx.xxx.xxx.xxx/xx"],
         "protocol": "tcp",
         "port": "all",
         "rule": "allow"
     },
     {
-        "name": "allow-ddc",
-        "source_ip": ["202.152.149.178/32", "202.46.148.34/32"],
+        "name": "allow-internal",
+        "source_ip": ["xxx.xxx.xxx.xxx/xx", "xxx.xxx.xxx.xxx/xx"],
         "protocol": "tcp",
         "port": "all",
         "rule": "allow"
